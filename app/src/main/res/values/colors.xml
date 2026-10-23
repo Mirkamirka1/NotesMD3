@@ -1,0 +1,9 @@
+<resources>
+    <color name="note_1">#FFD9DE</color>
+    <color name="note_2">#FFE3C7</color>
+    <color name="note_3">#FFF3B8</color>
+    <color name="note_4">#CDEFD5</color>
+    <color name="note_5">#CDE7FA</color>
+    <color name="note_6">#E3D9FA</color>
+    <color name="ic_launcher_bg">#6750A4</color>
+</resources>
